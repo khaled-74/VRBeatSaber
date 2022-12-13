@@ -1175,7 +1175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cubeType:
-  - {fileID: 6294036686766587835, guid: cf8ab7d54608dfa4e8f5b435bc57eb06, type: 3}
+  - {fileID: 6294036686766587835, guid: a3c4b4f56a7713246a77e91e1873cfd7, type: 3}
   - {fileID: 6294036686766587835, guid: cb8f21782e6c35f4ebaea87883aed346, type: 3}
   spawnPos:
   - {fileID: 692827481}
@@ -1184,7 +1184,6 @@ MonoBehaviour:
   - {fileID: 1596182542}
   startDelay: 2
   spawnInterval: 1
-  hand: {fileID: 0}
 --- !u!1 &1406703968
 GameObject:
   m_ObjectHideFlags: 0
